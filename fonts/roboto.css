@@ -1,0 +1,97 @@
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 100;
+  src:
+    local("Roboto Thin"),
+    local("Roboto-Thin"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff2") format("woff2"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff") format("woff"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Condensed";
+  font-style: normal;
+  font-weight: 300;
+  src:
+    local("Roboto Condensed Light"),
+    local("RobotoCondensed-Light"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff2") format("woff2"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff") format("woff"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Condensed";
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Roboto Condensed"),
+    local("RobotoCondensed-Regular"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff2") format("woff2"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff") format("woff"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto Condensed";
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local("Roboto Condensed Bold"),
+    local("RobotoCondensed-Bold"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff2") format("woff2"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff") format("woff"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.ttf") format("truetype");
+
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local("Roboto"),
+    local("Roboto-Regular"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff2") format("woff2"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff") format("woff"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    local("Roboto Medium"),
+    local("Roboto-Medium"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff2") format("woff2"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff") format("woff"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  src:
+    local("Roboto Bold"),
+    local("Roboto-Bold"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff2") format("woff2"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff") format("woff"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.ttf") format("truetype");
+
+}
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  src:
+    local("Roboto Light"),
+    local("Roboto-Light"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff2") format("woff2"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.woff") format("woff"),
+    url("/home/michi/Dokumente/GitHub/TVTable/fonts/Roboto-Light.ttf") format("truetype");
+}
